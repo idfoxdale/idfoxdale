@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @idfoxdale
-- 👀 I’m interested in Full stack web development using Flask Django with RaspberryPi4 Hosting at my premises using satic IP
-- 🌱 I’m currently learning ML AI Big data
-- 💞️ I’m looking to collaborate on Python
+- 💞️ I love coding in Python
+- 👀 Full stack web development Django is good along with ecma
+- have good exposure with GCP and its services Firebase library n all but prefer RaspberryPi4 Hosting at my premises for my blog easy to killswitch
+- 🌱 I’m currently expanding on ML AI Big data
+
 - 📫 How to reach me message me  here
 
 <!---
