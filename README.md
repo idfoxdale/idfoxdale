@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @idfoxdale
-- 💞️ I love coding in general(c,Python), Project Design, Making robust architecture fast efficient code (i'm from an era where 512 GB RAM 40GB HDD was a luxury)
+- 💞️ I love coding in general(c,Python), Project Design, Making robust architecture fast efficient code (i'm from an era where 512 MiB RAM 40GB HDD was a luxury)
 - 👀 Full stack web development(HTML5, CSS-Vanila-JavaScript, Django, love n hate  relationship with JavaScript. PWAs waiting on Web Assembly 
 - Stockholm Syndrome with Microsoft.
 - Own 3 RPi powered data center lol!
