@@ -8,10 +8,13 @@
 
 - 📫 How to reach me?
  message me  here
-or visit my portal if it's up
-https://ishantkumardas.com/
 
-hey! i'm on linked in too, if u into that kind of things.
+<!---
+or visit my portal if it's up
+https://ishantkumardas.com/  
+--->
+
+hey! i'm on linked in too, if u into that kind of thing.
 https://www.linkedin.com/in/idfoxdale
 
 <!---
