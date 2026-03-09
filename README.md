@@ -31,12 +31,13 @@ This includes data lineage, drift awareness, failure propagation, and the integr
 
 ## Current Focus
 
-• GPU-aware pipelines and compute scheduling  
+• GPU-aware pipelines and compute scheduling 
 • CUDA execution model literacy  
 • Secure model deployment and inference isolation  
 • Data and model versioning  
 • Monitoring, drift detection, and feedback loops  
 • Hybrid cloud and edge deployment  
+• Agentic AI & Advanced Coding: Multi-agent orchestration and supervision (OpenAI Codex, Google Antigravity, Anthropic Claude Code), autonomous task delegation, verifiable artifacts, steering files, cloud sandboxes, terminal-native workflows
 • Governance of large-scale AI systems  
 
 
