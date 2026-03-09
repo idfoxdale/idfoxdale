@@ -34,9 +34,9 @@ This includes data lineage, drift awareness, failure propagation, and the integr
 • Data and model versioning  
 • Monitoring, drift detection, and feedback loops  
 • Hybrid cloud and edge deployment  
-• Agentic AI & Advanced Coding: Multi-agent orchestration and supervision (OpenAI Codex, Google Antigravity, Anthropic Claude Code)
-• Autonomous task delegation, verifiable artifacts, steering files, cloud sandboxes, terminal-native workflows
-• Governance of large-scale AI systems  
+• Agentic AI & Advanced Coding: Multi-agent orchestration and supervision (OpenAI Codex, Google Antigravity, Anthropic Claude Code) \t
+• Autonomous task delegation, verifiable artifacts, steering files, cloud sandboxes, terminal-native workflows \t
+• Governance of large-scale AI systems
 
 ## Working Style
 
